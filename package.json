@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Learning node, express and mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobJCatlin/complete-node-bootcamp-master.git"
+  },
+  "author": "Rob Catlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobJCatlin/complete-node-bootcamp-master/issues"
+  },
+  "homepage": "https://github.com/RobJCatlin/complete-node-bootcamp-master#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
